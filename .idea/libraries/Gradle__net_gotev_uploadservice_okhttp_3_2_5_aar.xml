@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: net.gotev:uploadservice-okhttp:3.2.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/30ecddf7fd1c8e8827da16ba1b69ed21/jetified-uploadservice-okhttp-3.2.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/30ecddf7fd1c8e8827da16ba1b69ed21/jetified-uploadservice-okhttp-3.2.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/30ecddf7fd1c8e8827da16ba1b69ed21/jetified-uploadservice-okhttp-3.2.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/uploadservice-okhttp/3.2.5/ad7f9baf966569b49e4572149cd5d74eb9e7928a/uploadservice-okhttp-3.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/uploadservice-okhttp/3.2.5/636253270e1875fa5ec7a6099782a52905d9341b/uploadservice-okhttp-3.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
